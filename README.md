@@ -8,4 +8,5 @@ CopiarEditar
 - Estudiante de Ingeniería de Sistemas en UNIMINUTO
 ## Habilidades
 - Conocimientos básicos en programación
-- Uso de herramientas colaborativas como GitHub# Mi-hoja-de-vida
+- Comunicacion
+- aprendizaje rapido

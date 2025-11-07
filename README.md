@@ -1,7 +1,7 @@
 markdown
 CopiarEditar
 # Mi hoja de vida
-**Nombre completo:** johan Blanco
+**Nombre completo:** johan Esneider Blanco Sanchez
 **Correo electrónico:** johan.blanco-s@uniminuto.edu.co
 ## Formación académica
 - Bachiller Técnico en Monitoreo Ambintal
